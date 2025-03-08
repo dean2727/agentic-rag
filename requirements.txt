@@ -1,0 +1,9 @@
+langchain-openai
+langchain-community
+langchain-core
+langchain
+langgraph
+typing-extensions
+streamlit
+requests
+chromadb
